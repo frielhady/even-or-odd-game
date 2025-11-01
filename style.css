@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(#ffe4e1, #faf0e6, #d8a7a7, #fadadd);
+  font-family: "Brush Script MT", cursive;
+  height: 100vh;
+}
+* {
+  text-align: center;
+}
+button {
+  background-color: #ecc9ee;
+  font-weight: bolder;
+  border-radius: 9px;
+  padding: 10px;
+}
+
+.container {
+  background-color: #c9a7eb;
+  border: groove 5px;
+  border-radius: 10px;
+  width: 500px;
+  margin: 15px auto;
+  font-weight: bolder;
+}
+h1 {
+  color: rgb(94, 94, 174);
+}
+h2 {
+  color: #9384d1;
+}
